@@ -1,0 +1,8 @@
+catboost
+dash
+dash-bootstrap-components
+fastparquet
+numpy
+pandas
+plotly
+scikit-learn
